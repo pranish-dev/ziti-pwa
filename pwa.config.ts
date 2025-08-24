@@ -2,9 +2,9 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Ziti Hub',
+  shortName: 'Ziti Hub',
+  description: 'All in one hub for OnePlus Nord CE 3 (ziti) users',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -17,10 +17,10 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      name: 'Documentation',
+      shortName: 'Doc',
+      description: 'All in one guide',
+      url: '/search/label/Documentation?utm_source=homescreen',
     },
     {
       name: 'Shortcut 2',
